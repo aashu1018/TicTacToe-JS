@@ -31,7 +31,7 @@ A simple and interactive Tic-Tac-Toe (X-O) game built using **HTML**, **CSS**, a
 
 2. Navigate to the folder:
 
-  cd TicTacToe-JS
+   cd TicTacToe-JS
 
 3. Open index.html in your browser and start playing!
 
